@@ -92,7 +92,6 @@ void Widget::on_pbMilk_clicked() {
     changeMoney(-200);
 }
 
-void Widget::on_pbReturn_clicked()
-{
+void Widget::on_pbReturn_clicked() {
     returnChange();
 }
